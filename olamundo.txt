@@ -1,2 +1,7 @@
 Olá, mundão!
 Eu sou Gustavo
+Estagiario
+Vamos aprender os fundamentos do git?
+Sim
+Qual é o seu nome aluno?
+Fulano de tal
